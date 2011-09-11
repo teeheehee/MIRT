@@ -1,0 +1,300 @@
+[Closed Files]
+File_0=SourceModule,'c:\program files\borland\delphi5\source\vcl\Controls.pas',0,1,4185,1,4228,0,0
+File_1=SourceModule,'c:\program files\borland\delphi5\source\rtl\Sys\sysutils.pas',0,1,2183,1,2208,0,0
+File_2=SourceModule,'c:\program files\borland\delphi5\source\rtl\Sys\system.pas',0,1,1,1,1,0,0
+File_3=SourceModule,'c:\program files\borland\delphi5\source\vcl\Graphics.pas',0,1,1,1,1,0,0
+File_4=SourceModule,'D:\misc delphi projects\tools\MIRT\ImageAltercationUnit.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'D:\misc delphi projects\tools\MIRT\FindFilesUnit.pas',0,1,1,1,1,0,0
+File_6=SourceModule,'D:\misc delphi projects\tools\Resizer\DirDialog.pas',0,1,1,13,19,0,0
+File_7=SourceModule,'D:\misc delphi projects\tools\Resizer\MIRTMainFrm.pas',0,1,1,1,1,1,0
+File_8=SourceModule,'D:\misc delphi projects\tools\Resizer\ResizerConstsUnit.pas',0,1,1,1,1,0,0
+File_9=SourceModule,'D:\misc delphi projects\tools\Resizer\ImageResizerUnit.pas',0,1,483,1,508,0,0
+
+[Modules]
+Module0=D:\programming\delphi projects\MIRT\ImageResizerUnit.pas
+Module1=D:\programming\delphi projects\MIRT\ImageAltercationUnit.pas
+Module2=D:\programming\delphi projects\MIRT\ImageFilesUnit.pas
+Module3=D:\programming\delphi projects\MIRT\ResizerCommonTypesUnit.pas
+Module4=D:\programming\delphi projects\MIRT\ImageCommonTypesUnit.pas
+Module5=D:\programming\delphi projects\MIRT\MIRTMainFrm.pas
+Module6=D:\programming\delphi projects\MIRT\MIRT.dpr
+Count=7
+EditWindowCount=1
+
+[D:\programming\delphi projects\MIRT\ImageResizerUnit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\ImageAltercationUnit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\ImageFilesUnit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\ResizerCommonTypesUnit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\ImageCommonTypesUnit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\MIRTMainFrm.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\programming\delphi projects\MIRT\MIRT.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi7\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=7
+CurrentView=6
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=190
+Top=149
+Width=1029
+Height=787
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1021
+ClientHeight=760
+LeftPanelSize=15
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+
+[View0]
+Module=D:\programming\delphi projects\MIRT\MIRT.dpr
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=D:\programming\delphi projects\MIRT\MIRTMainFrm.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=D:\programming\delphi projects\MIRT\ImageCommonTypesUnit.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=D:\programming\delphi projects\MIRT\ResizerCommonTypesUnit.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=D:\programming\delphi projects\MIRT\ImageFilesUnit.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View5]
+Module=D:\programming\delphi projects\MIRT\ImageAltercationUnit.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View6]
+Module=D:\programming\delphi projects\MIRT\ImageResizerUnit.pas
+CursorX=15
+CursorY=160
+TopLine=132
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=1
+Breakpoint0='D:\misc delphi projects\tools\MIRT\MIRTMainFrm.pas',580,'',0,1,'',1,0,0,'',1,'','',''
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1219
+Height=151
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1211
+ClientHeight=124
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=155
+Height=820
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=155
+ClientHeight=820
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=1
+State=0
+Left=253
+Top=919
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=155
+Height=820
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=155
+ClientHeight=820
+TBDockHeight=893
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=Caption
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=155
+Height=820
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=155
+ClientHeight=820
+TBDockHeight=352
+LRDockWidth=190
+Dockable=1
+
+[fmGrepResults]
+Create=1
+Visible=0
+State=0
+Left=349
+Top=293
+Width=519
+Height=438
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=511
+ClientHeight=414
+TBDockHeight=438
+LRDockWidth=519
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=12
+Width=15
+Height=748
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=15
+ClientHeight=748
+TBDockHeight=305
+LRDockWidth=15
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=155
+Height=820
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=155
+ClientHeight=820
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=1
+
+[DockSite0]
+DockSiteType=1
+Create=1
+Visible=1
+State=0
+Left=63
+Top=149
+Width=190
+Height=852
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=828
+TBDockHeight=893
+LRDockWidth=190
+Dockable=1
+TabPosition=3
+ActiveTab=Project Manager
+TabDockClients=PropertyInspector,ProjectManager,ObjectTree,MessageView@EditWindow0
+
